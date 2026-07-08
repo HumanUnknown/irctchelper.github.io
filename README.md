@@ -1,1 +1,1 @@
-# irctchelper.github.io
+"The IRCTC Tatkal Helper extension stores all passenger names, phone numbers, and travel preferences completely locally on your device using browser storage. No data is collected, tracked, or transmitted to any external servers or third parties. Your data never leaves your browser."
